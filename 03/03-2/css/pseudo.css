@@ -1,0 +1,18 @@
+h1{
+    border: 1px solid red;
+}
+
+h1:hover{
+    border: 1px solid pink;
+    color: red;
+}
+
+h1::before{
+    content: "before";
+    color: greenyellow;
+}
+
+h1::after{
+    content: "after";
+    color: aquamarine;
+}

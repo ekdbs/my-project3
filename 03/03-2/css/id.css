@@ -1,0 +1,14 @@
+#header{
+    border: 1px solid red;
+    margin: 10;
+}
+
+#section{
+    border: 1px solid blue;
+    margin: 10;
+}
+
+#footer{
+    border: 1px solid green;
+    margin: 10;
+}
