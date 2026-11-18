@@ -1,0 +1,15 @@
+div {
+    border: 1px solid rgb(0, 1, 2);
+}
+
+p {
+    color: rgb(233, 149, 205);
+    border: 1px solid cyan;
+}
+div h1 {
+    color: chartreuse;
+}
+
+p > strong {
+    color: blueviolet;
+}
