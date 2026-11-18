@@ -1,0 +1,7 @@
+ul li:nth-of-type(odd){
+    color: red;
+}
+
+ul li:nth-of-type(even){
+    color: blue;
+}
